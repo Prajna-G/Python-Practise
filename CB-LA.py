@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[22]:
-
-
 import tkinter as tk
 import webbrowser
 import pygame.mixer as mixer       
@@ -69,8 +63,6 @@ send_button.pack()
 # Start the Tkinter main loop
 window.mainloop()
 
-
-# In[ ]:
 
 
 
